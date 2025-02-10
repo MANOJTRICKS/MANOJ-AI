@@ -6,4 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
+    ALIVE_ING: process.env.ALIVE_ING || "https://cdn.ironman.my.id/i/eaalm1.jpg"
+    ALIVE_MSG: process.env.ALIVE_MSG || "MANOJ AI IS ALIVE NOW"
+
 };
