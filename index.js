@@ -71,7 +71,7 @@ console.log('Manoj-ai connected to whatsapp âœ…')
 
 let up = `MANOJ-AI connected successful âœ…\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://cdn.ironman.my.id/i/eaalm1.jpg` }, caption: up })
 
 }
 })
