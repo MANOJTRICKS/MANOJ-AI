@@ -2,7 +2,7 @@
   "name": "MANOJ-AI",
   "description": "Javascript WhatsApp bot made by MANOJ-XD",
   "logo": "https://cdn.ironman.my.id/i/eaalm1.jpg",
-  "keywords": ["bot"],
+  "keywords": ["bot,Manojai,Manoj-ai,Manoj-ai,Manojai"],
   "success_url": "/",
 
   "env": {
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://cdn.ironman.my.id/i/eaalm1.jpg.",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "MANOJ AI IS ALIVE NOW.",
       "required": true
     }   
 },
